@@ -20,17 +20,31 @@ I’ve worked on **healthcare, finance, waste management, and interview-prep pla
 
 ## 🧰 Tech Stack
 
-**Languages**  
-C • Java • Python • Dart • JavaScript • SQL  
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,dart,javascript,sql" />
+</p>
 
-**Frameworks & Libraries**  
-Flutter • React • React Native • Tailwind CSS • Astro  
+---
 
-**Tools & Platforms**  
-Git • GitHub • Android Studio • VS Code • Figma • MIT App Inventor  
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,reactnative,tailwind,astro,html,css" />
+</p>
 
-**Databases**  
-MySQL • MongoDB • Firebase  
+---
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
 
 ---
 
@@ -38,15 +52,15 @@ MySQL • MongoDB • Firebase
 
 ### 🔹 PrepWise – Personalized IT Prep Companion  
 📱 Flutter, Dart, Firebase, SQLite  
-- AI-powered interview prep app  
-- LeetCode tracking, mock interviews, ATS resume evaluation  
+- AI-powered interview preparation platform  
+- LeetCode progress tracking, mock interviews, ATS resume evaluation  
 🔗 https://github.com/ragavit-kec/prepwise
 
 ---
 
 ### 🔹 Finance Management App  
 📱 React Native, MongoDB  
-- Income & expense tracking  
+- Track income, expenses, and savings  
 - Team-led project with real-world finance use cases  
 
 ---
@@ -55,3 +69,44 @@ MySQL • MongoDB • Firebase
 📱 Flutter, Firebase  
 - Reward-based waste disposal system  
 - Geolocation & gamification for sustainability  
+
+---
+
+### 🔹 Healthcare App (Internship Project)  
+📱 Flutter, Firebase  
+- Doctor appointments, pharmacy orders, bill payments  
+- Built during internship at Crescent Moon Consulting Services  
+
+---
+
+## 🏆 Experience Highlights
+
+- **App Developer – Crescent Moon Consulting Services**  
+- **Team Lead – Lights.Inc (Finance Management App)**  
+- **Java Developer Intern – CodSoft**  
+- **Web Development Intern – CodSoft**
+
+---
+
+## 🏅 Achievements
+
+- 🥇 Winner – Technical Presentation (1st & 2nd Year)  
+- 🥇 Winner – KEC Hackathon 2025 (State Level)  
+- 🥈 Winner – Thinkathon (Vellar College of Engineering)  
+- 🥉 Winner – HackWave Intra-Department Hackathon  
+
+---
+
+## 📊 GitHub Stats
+
+![Ragavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragavi-thangaraj&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: http://www.linkedin.com/in/ragavi2005  
+- 🌐 Portfolio: https://portfolio-delta-five-25.vercel.app  
+- 📧 Email: ragavithangaraj09@gmail.com  
+
+⭐ If you like my work, feel free to explore my repositories and connect with me!
