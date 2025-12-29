@@ -1,4 +1,4 @@
-# Hi I'm Ragavi Thangaraj  
+# Hey I'm Ragavi Thangaraj  
  
 Mobile App & Full-Stack Developer  
 Flutter • React • React Native • Firebase • MongoDB  
@@ -8,7 +8,7 @@ Flutter • React • React Native • Firebase • MongoDB
 I build things the hard way by learning fast, shipping often, and fixing what breaks until it works better than before.
 From Flutter apps to full-stack systems, I like owning problems end-to-end, leading when needed, and staying obsessed with clean, useful products.
 Still learning, always grinding , I work hard, I rest when I need to, and I show up again - that’s how I grow.
----
+
 
 ## 🧠 What I Do
 
