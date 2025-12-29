@@ -3,6 +3,11 @@
 Mobile App & Full-Stack Developer  
 Flutter • React • React Native • Firebase • MongoDB  
 
+<p align="center">
+  <img src="git.gif" width="350"/>
+</p>
+
+
 ## About Me
 
 I build things the hard way by learning fast, shipping often, and fixing what breaks until it works better than before.
