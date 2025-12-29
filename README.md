@@ -4,7 +4,7 @@ Mobile App & Full-Stack Developer
 Flutter • React • React Native • Firebase • MongoDB  
 
 <p align="center">
-  <img src="git.gif" width="350"/>
+  <img src="git.gif">
 </p>
 
 
