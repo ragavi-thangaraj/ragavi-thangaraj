@@ -19,7 +19,11 @@ Mobile App & Full-Stack Developer
 </p>
 
 
-## About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 I build things the hard way by learning fast, shipping often, and fixing what breaks until it works better than before.
 From Flutter apps to full-stack systems, I like owning problems end-to-end, leading when needed, and staying obsessed with clean, useful products.
