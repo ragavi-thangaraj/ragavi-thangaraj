@@ -1,8 +1,6 @@
-# Hey I'm Ragavi Thangaraj  
+# Hey there I'm Ragavi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&color=FFCB23&width=435&lines=Mobile+App+developer;Full+Stack+Developer;DevOps+Engineer)](https://git.io/typing-svg)
- 
-Mobile App & Full-Stack Developer  
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
