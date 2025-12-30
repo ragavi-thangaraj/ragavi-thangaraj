@@ -1,4 +1,6 @@
 # Hey I'm Ragavi Thangaraj  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&color=FFCB23&width=435&lines=Mobile+App+developer;Full+Stack+Developer;DevOps+Engineer)](https://git.io/typing-svg)
  
 Mobile App & Full-Stack Developer  
 
