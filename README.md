@@ -37,7 +37,8 @@ Still learning, always grinding , I work hard, I rest when I need to, and I show
 - Work with **Firebase, MongoDB, MySQL** for backend & data  
 - Lead teams and convert ideas into working products  
 ---
-## <video src="coding.mp4" width="400" autoplay loop muted></video>
+## <img src="coding.gif" width="25"> <b>What I Do</b>
+
 
 ## ⭐ Core Skills
 ![Flutter](https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
