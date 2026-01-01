@@ -17,7 +17,7 @@
 </p>
 
 
-## <picture><img src = "about_me.gif" width = 50px></picture> About me
+## <picture><img src = "about_me.gif" width = 40px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -29,7 +29,7 @@ Still learning, always grinding , I work hard, I rest when I need to, and I show
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"><b> What I Do</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"><b> What I Do</b>
 <br>
 
 - Build **cross-platform mobile apps** using Flutter & React Native  
@@ -38,7 +38,7 @@ Still learning, always grinding , I work hard, I rest when I need to, and I show
 - Lead teams and convert ideas into working products  
 ---
 
-## <img src="coding.gif" width="50" style="vertical-align:middle;"> <b>Core Skills</b>
+## <img src="coding.gif" width="40" style="vertical-align:middle;"> <b>Core Skills</b>
 
 ![Flutter](https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
 
