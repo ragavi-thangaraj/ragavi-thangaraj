@@ -38,6 +38,7 @@ Still learning, always grinding , I work hard, I rest when I need to, and I show
 - Lead teams and convert ideas into working products  
 ---
 ## <img src="coding.gif" width="25"> <b>What I Do</b>
+## <img src="./assets/coding.gif" width="30" style="vertical-align:middle;"> <b>What I Do</b>
 
 
 ## ⭐ Core Skills
